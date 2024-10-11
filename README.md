@@ -19,3 +19,7 @@ El libro de referencia para la asignatura es **Montaje y mantenimiento de equipo
 - Wikilibro - [Mantenimiento y Montaje de Equipos Informáticos](https://es.wikibooks.org/wiki/Mantenimiento_y_Montaje_de_Equipos_Inform%C3%A1ticos)
 - [Normas para el montaje y mantenimiento de equipos informáticos](https://www.eniun.com/normas-montaje-mantenimiento-equipos-informaticos/)
 - [Animación `Ley de Ohm](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html)
+
+## Vídeos
+
+- [Historia de la Informática](https://youtu.be/6sTPEtzNIsA?si=7xH0Cxx1pmHopB80)
