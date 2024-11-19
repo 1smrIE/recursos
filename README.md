@@ -23,3 +23,4 @@ El libro de referencia para la asignatura es **Montaje y mantenimiento de equipo
 ## Vídeos
 
 - [Historia de la Informática](https://youtu.be/6sTPEtzNIsA?si=7xH0Cxx1pmHopB80)
+- [Khan Academy - Lección 1: Corriente eléctrica, resistividad y ley de Ohm](https://es.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1)
