@@ -23,5 +23,12 @@ El libro de referencia para la asignatura es **Montaje y mantenimiento de equipo
 
 ## Vídeos
 
+### General
+
 - [Historia de la Informática](https://youtu.be/6sTPEtzNIsA?si=7xH0Cxx1pmHopB80)
+
+## Electricidad Básica
+
 - [Khan Academy - Lección 1: Corriente eléctrica, resistividad y ley de Ohm](https://es.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1)
+- [La ley de Ohm -Electrónica FP](https://www.youtube.com/watch?v=0GN5w4EMHCw)
+- [Potencia eléctrica en corriente contínua - Tutoriales sobre ciencia y tecnología](https://www.youtube.com/watch?v=dlANS1i21sM)
