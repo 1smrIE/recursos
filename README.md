@@ -30,5 +30,6 @@ El libro de referencia para la asignatura es **Montaje y mantenimiento de equipo
 ## Electricidad Básica
 
 - [Khan Academy - Lección 1: Corriente eléctrica, resistividad y ley de Ohm](https://es.khanacademy.org/science/ap-physics-1/ap-circuits-topic/current-ap/v/circuits-part-1)
-- [La ley de Ohm -Electrónica FP](https://www.youtube.com/watch?v=0GN5w4EMHCw)
+- [Khan Academy - Lección 2: Resistividad y conductividad](https://youtu.be/LQuOM-sTN6o)
+- [La ley de Ohm - Electrónica FP](https://www.youtube.com/watch?v=0GN5w4EMHCw)
 - [Potencia eléctrica en corriente contínua - Tutoriales sobre ciencia y tecnología](https://www.youtube.com/watch?v=dlANS1i21sM)
